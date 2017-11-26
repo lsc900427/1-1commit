@@ -168,7 +168,7 @@ STATIC_URL = '/static/'
 2.
 # 전체를 모으고자 할때 어느 부분에 모을 것인가를 지정해주는 부분, 1개면 충분하다
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR(최상위 프로젝트 루트), 'askdjango'(프로젝트명), 'static'(프로젝트 경로)),
+    os.path.join(BASE_DIR(최상위 프로젝트 루트), 'trydjango'(프로젝트명), 'static'(프로젝트 경로)),
 ]
 
 3.
